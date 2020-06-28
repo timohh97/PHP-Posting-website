@@ -1,0 +1,55 @@
+#post
+{
+    display:table;
+    margin:0 auto;
+    margin-top:20px;
+    font-size:x-large;
+    width:500px;
+    height:150px;
+    background-color:white;
+    border-radius:30px;
+}
+
+body{
+    background-color:darkseagreen;
+}
+
+#textOfPost
+{
+    text-align:center;
+}
+
+
+#inputForm
+{
+    display:table;
+    margin:0 auto;
+    margin-top:50px;
+}
+
+form
+{
+    display:table;
+    margin:0 auto;
+    margin-top:80px;
+}
+
+textarea
+{
+    resize:none;
+    font-size:x-large;
+    width:500px;
+    height:120px;
+}
+
+button
+{
+    font-size:x-large;
+}
+
+#date
+{
+    display:table;
+    margin:0 auto;
+    font-size:small;
+}
